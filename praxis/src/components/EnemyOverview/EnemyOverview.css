@@ -1,0 +1,24 @@
+.enemy-overview-container {
+    display: inline-block;
+    width: 50%;
+    height: 90%;
+    padding: 20px;
+    box-sizing: border-box;
+    background: linear-gradient(to bottom, transparent, #9D9C9C);
+    border: inset white;
+}
+
+.enemy-overview-text {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    /* autoprefixer: off */
+    -webkit-box-orient: vertical;
+    /* autoprefixer: on */
+
+}
+
+.enemy-overview-image{
+    width: 35%;
+    height: 50%;
+}

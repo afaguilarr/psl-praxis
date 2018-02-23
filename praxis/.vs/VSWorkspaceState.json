@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\App",
+    "\\src\\components\\EnemyOverview",
+    "\\src\\components\\HeroeOverview",
+    "\\src\\data",
+    "\\src\\services"
+  ],
+  "SelectedNode": "\\src\\index.css",
+  "PreviewInSolutionExplorer": false
+}

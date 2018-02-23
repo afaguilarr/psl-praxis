@@ -21,3 +21,11 @@
 .App-intro {
   font-size: large;
 }
+
+h2 {
+    margin: auto;
+    background-color: #D13024;
+    border: inset white;
+    font-family: Arial Black;
+    color: white;
+}

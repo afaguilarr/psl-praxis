@@ -1,8 +1,11 @@
 .heroe-overview-container {
     display: inline-block;
     width: 50%;
+    height: 90%;
     padding: 20px;
     box-sizing: border-box;
+    background: linear-gradient(to bottom, transparent, #9D9C9C);
+    border: inset white;
 }
 
 .heroe-overview-text {
@@ -12,4 +15,10 @@
     /* autoprefixer: off */
     -webkit-box-orient: vertical;
     /* autoprefixer: on */
+
+}
+
+.heroe-overview-image{
+    width: 35%;
+    height: 50%;
 }
